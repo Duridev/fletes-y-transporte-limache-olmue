@@ -195,46 +195,42 @@ camión betonero Limache, transporte de hormigón Olmué
 
 ---
 
-# 5. Cobertura Geográfica (SEO Local)
+# 5. Cobertura Geográfica (SEO Local & Regional V Región)
 
-Incluir sección específica con texto optimizado mencionando:
+Incluir sección específica con texto optimizado estructurada por zonas/provincias de la V Región:
 
-Comunas principales:
-- Limache
-- Olmué
-
-Comunas secundarias:
-- La Calera
-- Hijuelas
-- Quillota
-- Nogales
-- Quilpué
-- Villa Alemana
-- La Cruz
-- San Pedro
+1. **Gran Valparaíso & Costa**: Valparaíso, Viña del Mar, Concón, Reñaca, Placilla.
+2. **Provincia de Marga Marga**: Quilpué, Villa Alemana, Limache, Olmué, El Belloto.
+3. **Provincia de Quillota & Interior**: Quillota, La Calera, Hijuelas, La Cruz, Nogales, San Pedro.
+4. **Provincia de San Antonio**: San Antonio, Cartagena, Santo Domingo, Algarrobo, El Quisco, El Tabo.
+5. **Valle del Aconcagua**: San Felipe, Los Andes, Rinconada, Calle Larga, Putaendo.
+6. **Litoral Norte & Petorca**: Quintero, Puchuncaví, Maitencillo, La Ligua, Cabildo, Petorca.
 
 Frase clave:
-"Servicios de transporte y maquinaria en Limache, Olmué y toda la Quinta Región interior."
+"Servicios de transporte, fletes, mudanzas, retiro de escombros, maquinaria y áridos en toda la V Región de Valparaíso."
 
 ---
 
-# 6. SEO – Palabras Clave
+# 6. SEO – Palabras Clave Regionales
 
 Principales:
-- fletes Limache
-- fletes Olmué
-- mudanzas Limache
-- retiro de escombros Limache
-- transporte Limache
-- transporte Olmué
+- fletes V Region
+- fletes Valparaiso
+- fletes Viña del Mar
+- fletes Quilpue
+- fletes Villa Alemana
+- fletes San Antonio
+- fletes Quillota
+- transportes Quinta Region
 
 Secundarias:
-- fletes Quinta Región
-- camión grúa Limache
-- camión aljibe Olmué
-- retroexcavadora Limache
-- transporte Quilpué
-- transporte La Calera
+- movimiento de tierra Valparaiso
+- arriendo retroexcavadora V region
+- retiro escombros Valparaiso
+- venta de aridos V region
+- maicillo Valparaiso
+- camion tolva 16m3 V region
+- grua remolque autos V region
 
 ---
 

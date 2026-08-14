@@ -1,5 +1,5 @@
 /**
- * Fletes y Transportes Limache y Olmué
+ * Transportes y Maquinaria V Región Valparaíso
  * main.js – Vanilla JavaScript
  */
 document.addEventListener('DOMContentLoaded', () => {
