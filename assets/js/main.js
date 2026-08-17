@@ -1,5 +1,5 @@
 /**
- * Transportes y Maquinaria V Región Valparaíso
+ * Transportes y Maquinarias Quinta Región
  * main.js – Vanilla JavaScript
  */
 document.addEventListener('DOMContentLoaded', () => {
